@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.left{float: left;}
+.right{float: right;}
+.clearfix{float: both;}
+
+header{
+    width: 100%;
+    min-height: 30px;
+    background-color: #3EB489;
+}
+.menu{
+    width: 780px;
+    margin: 0 auto;
+}
+.menu a{
+    
+}
+
+.content{
+    margin-top: 150px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+.content h2{
+    width: 300px;
+}
+.content .img{
+    width: 221px;
+    height: 169px;
+    background-image: url(/html_/img/transparent-logo-spiral-electric-blue-clip-art-circle-5d85d4a4601067\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content a{
+    padding: 10px 5px;
+    width: 185px;
+    background-color: blueviolet;
+    color: #FFF;
+}
