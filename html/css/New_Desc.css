@@ -1,0 +1,8 @@
+.content p{
+    width: 500px;
+    margin: 0 0;
+    text-align: left;
+}
+input{
+    float: right;
+}
