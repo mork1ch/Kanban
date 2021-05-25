@@ -1,0 +1,25 @@
+.content{
+    margin: 0 auto;
+    width: 800px;
+}
+.content h2{
+    width: 800px;
+}
+.content p{
+    min-width: 500px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.content input{
+    float: right;
+}
+.RegLog {
+    text-align: center;
+}
+.RegLog a{
+    background-color: #d32d2d;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 185px;
+    color: #FFF;
+}
