@@ -29,7 +29,16 @@
 .del{
     width: 15px;
     height: 15px;
-    background-image: url(/html/img/krest.png);
+    background-image: url(../img/krest.png);
+    background-size: 100%;    
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.dob{
+    width: 15px;
+    height: 15px;
+    background-image: url(../img/plus.png);
     background-size: 100%;    
     background-position: center;
     background-repeat: no-repeat;

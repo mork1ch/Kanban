@@ -1,0 +1,15 @@
+button{
+    float: right;
+}
+.scontent{
+    width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+.coments{
+    width: 800px;
+    text-align: left;
+}
+.comment div{
+    display: inline-block;
+}
